@@ -23,4 +23,4 @@ async def play(ctx):
     if not voice_client.is_playing():
         voice_client.play(audio_source, after=None)
 
-bot.run('ODkzNTUwMjY5MTQzNTkyOTkx.YVdFiQ.wfheu7odehLwI2NBGmQSz3Q6TKA')
+bot.run('ODkzNTUwMjY5MTQzNTkyOTkx.YVdFiQ.3hLsx-NVYzRPsOxMbAvSZg6v2yw')
